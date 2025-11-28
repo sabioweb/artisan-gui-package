@@ -1,5 +1,5 @@
 {
-    "name": "sabiowebcom/artisan-gui",
+    "name": "sabiowebcom/artisan-gui-package",
     "description": "Laravel package for executing Artisan commands through a web GUI",
     "type": "library",
     "license": "MIT",
