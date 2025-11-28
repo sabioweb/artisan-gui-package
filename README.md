@@ -1,14 +1,16 @@
-# 🚀 Artisan GUI — Team :  Sabioweb author : Ramezanzadeh
+# 🚀 Artisan GUI 
 
 ---
-
-````markdown
-
 **A modern, secure, and beautifully designed web interface for running Laravel Artisan commands.**
 
 > A sleek dashboard that transforms `php artisan` into a safe, team-friendly, role-based graphical interface — without exposing server access.
 
 ---
+
+````markdown
+
+
+
 
 ## ✨ Key Features
 
@@ -63,7 +65,7 @@
 
 ### 1️⃣ Install via Composer
 ```bash
-composer require sabiowebcom/artisan-gui
+composer require sabiowebcom/artisan-gui-package
 ````
 
 ### 2️⃣ Publish Package Assets
@@ -287,9 +289,11 @@ MIT License
 
 ---
 
-## 🙏 Acknowledgments
-
-Built with ❤️ by **Sabiowebcom Team**
+🙏 Acknowledgments
+Built with ❤️ by Sabiowebcom Team
+Author: Ramezanzadeh
+Team: Sabioweb
+Site : Sabioweb.com
 
 ---
 
